@@ -1,0 +1,17 @@
+To compile, simply, type ''make'' at the terminal (without the quotes).
+
+– Names and email addresses of all partners.
+Name: Andres Imperial
+Email: andres.imperial@csu.fullerton.edu
+
+– The programming language you use (e.g. C++ or Java)
+Language: C++
+
+– How to execute your program.
+./cipher <CIPHER NAME> <KEY> <ENC/DEC> <INPUT FILE> <OUTPUT FILE> <ECB/CBC/CFB>
+
+– Whether you implemented the extra credit.
+The CBC portion is implemented, but the CFB portion is not implemented
+
+– Anything special about your submission that we should take note of.
+The CBC portion is implemented, but the CFB portion is not implemented

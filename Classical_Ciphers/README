@@ -1,0 +1,21 @@
+
+Andres Imperial 
+CPSC 452
+Monday 7PM
+
+– The programming language you use (e.g. C++, Java, Python)
+My program was coded in c++
+
+– How to execute your program.
+To compile, simply, type ''make'' at the terminal (without the quotes).
+
+Then use followin format:
+./cipher <CIPHER NAME> <KEY> <ENC/DEC> <INPUTFILE> <OUTPUTFILE>
+
+– Whether you implemented the extra credit.
+I emplemented the encryption part of Hill, but not the decryption
+
+– Anything special about your submission that we should take note of.
+I emplemented the encryption part of Hill, but not the decryption. I also use
+lower case letters for all cipher and plaintext, I also assume there will be no
+spaces or punction to interfer with the given cipher or plain text.
